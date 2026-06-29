@@ -3,12 +3,17 @@ body {
     background-image: url("../images/01-02-02_background-img.jpg");
 }
 
+h1 {
+    color: orangered;
+}
+
 h2 {
     color: orangered
 }
 
 p {
     font-weight: bold;
+    color: black;
 }
 
 .text-center {
